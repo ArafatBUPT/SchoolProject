@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Git/C++/SchoolProject/easyGame/main.cpp
+iostream
+-
+stdlib.h
+F:/Git/C++/SchoolProject/easyGame/stdlib.h
+time.h
+-
+

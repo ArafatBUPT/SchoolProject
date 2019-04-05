@@ -1,0 +1,3 @@
+F:/Git/C++/SchoolProject/easyGame/cmake-build-debug/CMakeFiles/easyGame.dir
+F:/Git/C++/SchoolProject/easyGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Git/C++/SchoolProject/easyGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir

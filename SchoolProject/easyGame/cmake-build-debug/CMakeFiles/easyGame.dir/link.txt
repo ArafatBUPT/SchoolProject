@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\easyGame.dir/objects.a
+D:\MinGW\bin\ar.exe cr CMakeFiles\easyGame.dir/objects.a @CMakeFiles\easyGame.dir\objects1.rsp
+D:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\easyGame.dir/objects.a -Wl,--no-whole-archive  -o easyGame.exe -Wl,--out-implib,libeasyGame.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\easyGame.dir\linklibs.rsp

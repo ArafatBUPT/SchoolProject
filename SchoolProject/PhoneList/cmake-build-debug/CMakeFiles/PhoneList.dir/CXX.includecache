@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Git/C++/SchoolProject/PhoneList/Person.h
+string
+F:/Git/C++/SchoolProject/PhoneList/string
+
+F:/Git/C++/SchoolProject/PhoneList/phoneList.cpp
+phoneList.h
+F:/Git/C++/SchoolProject/PhoneList/phoneList.h
+iostream
+F:/Git/C++/SchoolProject/PhoneList/iostream
+fstream
+F:/Git/C++/SchoolProject/PhoneList/fstream
+string
+F:/Git/C++/SchoolProject/PhoneList/string
+
+F:/Git/C++/SchoolProject/PhoneList/phoneList.h
+vector
+F:/Git/C++/SchoolProject/PhoneList/vector
+Person.h
+F:/Git/C++/SchoolProject/PhoneList/Person.h
+

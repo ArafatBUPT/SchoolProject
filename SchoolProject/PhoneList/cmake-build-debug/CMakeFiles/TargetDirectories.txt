@@ -1,0 +1,3 @@
+F:/Git/C++/SchoolProject/PhoneList/cmake-build-debug/CMakeFiles/PhoneList.dir
+F:/Git/C++/SchoolProject/PhoneList/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Git/C++/SchoolProject/PhoneList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
